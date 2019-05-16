@@ -1,4 +1,4 @@
-# calories-counter
+# Calories Counter
 Contador de calorías desarrollado en el curso Programación Funcional en JavaScript por Bedu en Platzi
 
 ## El mismo puede ser visualizado en el siguiente link
