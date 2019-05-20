@@ -1,7 +1,11 @@
-# Calories Counter
-Contador de calorías desarrollado en el curso Programación Funcional en JavaScript por Bedu en Platzi
+## Calories counter
+*Contador de calorías desarrollado en el curso Programación Funcional en JavaScript por Bedu en Platzi*
+*El mismo puede ser visualizado en el siguiente link* 
+[Ver demo en vivo](https://franciscoimanolsuarez.github.io/calories-counter/)
 
-## El mismo puede ser visualizado en el siguiente link
-https://franciscoimanolsuarez.github.io/calories-counter/
 
-El proyecto fue desarrollado en el siguiente curso de Platzi https://platzi.com/clases/funcional-js/
+## Informacion adicional 
+Si te interesa saber mas sobre como se realizo este contador de calorias puedes ver el curso de [Platzi sobre Programacion Funcional](https://platzi.com/clases/funcional-js/) 
+
+
+#Licencia MIT
